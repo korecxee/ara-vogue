@@ -1,0 +1,29 @@
+.welcome-button {
+          background-color: rgb(6, 20, 59);
+          color: antiquewhite;
+          border-style: solid;
+          border-radius: 45px;
+          font-family: roboto, arial;
+          font-style: italic;
+          border: 13px rgb(67, 102, 124);
+          margin-bottom: 14px;
+          font: float;
+          box-sizing: 45px;
+          box-shadow: (2px 2px 0.1);
+          font-size: 40px;
+          align-items: center;
+          border-width: 50px;
+          line-height: 0.8;
+          border-bottom: 25px;
+          padding: 20px 36px;
+        cursor: pointer;}
+           .welcome-button:hover{
+             background-color:  rgb(26, 25, 85) ; 
+            opacity: 0.5s;}
+            .welcome-button:active{
+              background-color: rgb(133, 131, 248);
+              justify-content: center;
+            }
+.container{
+  text-align: center;
+}
